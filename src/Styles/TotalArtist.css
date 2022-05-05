@@ -5,7 +5,7 @@
 }
 
 .artistAll{
-   width: 50vh;
+  width: 100vw;
 }
 
 .nameAndinfo{
@@ -26,17 +26,17 @@
 }
 
 .artistAll  p:nth-child(2){
-    margin: 1vh;
+
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(114, 114, 114);
 }
 .artistAll  p:nth-child(3){
-   margin: 1vh;
+
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: rgb(114, 114, 114);
 }
 .artistAll  p:nth-child(4){
-   margin: 1vh;
+
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: rgb(114, 114, 114);
 }
@@ -98,7 +98,11 @@ a{
 @media (max-width: 720px){
 
    .artistAl{
-      padding: 0px;
+     width: 100vw;
+   }
+
+   .nameAndinfo{
+    width: 100vw;
    }
    .img{
       width: 100vw;
