@@ -1,6 +1,7 @@
 import React from "react";
 import "../Styles/TotalArtist.css";
 
+
 const TotalArtist = ({
   artist,
   img,

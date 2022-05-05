@@ -6,7 +6,6 @@
 
 .artistAll{
    width: 50vh;
-   padding-left: 1vh;
 }
 
 .nameAndinfo{
@@ -97,7 +96,16 @@ a{
 }
 
 @media (max-width: 720px){
-   
+
+   .artistAl{
+      padding: 0px;
+   }
+   .img{
+      width: 100vw;
+      border-radius: 0px;
+      margin: 0px;
+      padding: 0px;
+   }
 }
 
 

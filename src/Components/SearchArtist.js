@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import '../Styles/Search.css'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 
 const newEntry = {
     artist: '' ,
@@ -32,7 +34,7 @@ const SearchArtist = ({hSearch}) => {
        <section onSubmit={handlesubmit}>
            <form className='search'>
               <input name='artist' type={'text'} placeholder='Enter Your Artist Favorite'  onChange={handleSearch} value={form.artist}/>
-              <input type={'submit'} value='Send Artist'/>
+              <button type='submit' className='btn'><FontAwesomeIcon icon={faMagnifyingGlass}/></button>
            </form>
 
        </section>
