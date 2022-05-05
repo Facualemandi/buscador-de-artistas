@@ -17,7 +17,7 @@ const DetailsArtist = ({ bio, search }) => {
           biography={bio.artists[0].strBiographyEN}
         />
       ) : (
-        <MessageError />
+        <MessageError msg={`Error: El artista ${search.artist} no existe.`} />
       )}
     </>
   );

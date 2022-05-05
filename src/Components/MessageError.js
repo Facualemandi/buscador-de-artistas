@@ -1,9 +1,15 @@
 import React from 'react'
+import '../Styles/MessageError.css'
 
-const MessageError = () => {
+const Message = ({msg}) => {
+
   return (
-    <div>MessageError</div>
+     <>
+       <div className='mesageError'>
+           <p>  {msg} </p>
+       </div>
+     </>
   )
 }
 
-export default MessageError
+export default Message
