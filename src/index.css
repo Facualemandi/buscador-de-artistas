@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.buscar{
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  width: 50vh;
+  margin: auto;
+  margin-bottom: 3vh;
+}
