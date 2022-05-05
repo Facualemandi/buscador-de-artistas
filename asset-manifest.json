@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/buscador-de-artistas/static/css/main.d3df847c.css",
+    "main.css": "/buscador-de-artistas/static/css/main.1d8b97b6.css",
     "main.js": "/buscador-de-artistas/static/js/main.6f9a7c2f.js",
     "index.html": "/buscador-de-artistas/index.html",
-    "main.d3df847c.css.map": "/buscador-de-artistas/static/css/main.d3df847c.css.map",
+    "main.1d8b97b6.css.map": "/buscador-de-artistas/static/css/main.1d8b97b6.css.map",
     "main.6f9a7c2f.js.map": "/buscador-de-artistas/static/js/main.6f9a7c2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3df847c.css",
+    "static/css/main.1d8b97b6.css",
     "static/js/main.6f9a7c2f.js"
   ]
 }
