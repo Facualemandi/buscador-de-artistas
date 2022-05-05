@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-de-artistas/static/css/main.97528fc6.css",
+    "main.js": "/buscador-de-artistas/static/js/main.1c4cce3c.js",
+    "index.html": "/buscador-de-artistas/index.html",
+    "main.97528fc6.css.map": "/buscador-de-artistas/static/css/main.97528fc6.css.map",
+    "main.1c4cce3c.js.map": "/buscador-de-artistas/static/js/main.1c4cce3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97528fc6.css",
+    "static/js/main.1c4cce3c.js"
+  ]
+}
